@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build output
+.nuxt/
+dist/
+.output/
+.cache/
+.data/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional: lock files
+package-lock.json
+yarn.lock
+
+# Static cache
+.cache/
