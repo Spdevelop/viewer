@@ -43,13 +43,7 @@
           </button>
         </div>
 
-        <!-- Scroll Indicator -->
-        <div class="absolute bottom-12 left-1/2 transform -translate-x-1/2 animate-fade-in-up"
-          style="animation-delay: 900ms;">
-          <div class="w-6 h-10 border-2 border-gray-400 rounded-full flex justify-center">
-            <div class="w-1 h-3 bg-gray-400 rounded-full mt-2 animate-bounce"></div>
-          </div>
-        </div>
+      
       </div>
     </div>
   </section>

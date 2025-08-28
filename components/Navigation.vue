@@ -5,7 +5,7 @@
         <div class="flex items-center justify-between h-16">
           <!-- Logo -->
           <div class="flex items-center">
-            <div class="text-2xl font-bold text-gradient">CompanyName</div>
+            <div class="text-2xl font-bold text-gradient">Spdev</div>
           </div>
 
           <!-- Desktop Menu -->
